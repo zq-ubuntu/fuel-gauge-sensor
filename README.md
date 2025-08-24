@@ -81,3 +81,6 @@ const float TANK_HEIGHT = 27.0;
 
 // The distance from the sensor to the top of the oil when the tank is full (in inches).
 const float SENSOR_OFFSET = 2.0;
+```
+## Acknowledgements
+I rebuilt [this](https://scottiestech.info/2017/10/24/diy-ultrasonic-fuel-gauge-level-sensor/) project to get hands-on experience with Arduino. Huge thanks because I estimate a savings of at least $100 trying to replace my fuel tank gauge.
