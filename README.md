@@ -21,6 +21,7 @@ This project was created to provide a non-invasive way to measure the amount of 
 ---
 
 ## 🛠️ Components Required
+# I Used the [Arduino Starter Kit](https://www.amazon.com/gp/product/B01D8KOZF4?ref=ppx_pt2_dt_b_prod_image) from Amazon for assembly
 
 | Component                 | Quantity | Notes                                      |
 | ------------------------- | :------: | ------------------------------------------ |
